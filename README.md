@@ -1,4 +1,4 @@
-In this article, we are going to see about how to perform the lazy loading aka load on demand with the use case of Windows folder browser. 
+We are going to see about how to perform the lazy loading aka load on demand with the use case of Windows folder browser. 
 In just three following steps, you can simply perform the lazy loading in the WPF TreeView, 
 
 1.	Creating a TreeView with Data Binding
