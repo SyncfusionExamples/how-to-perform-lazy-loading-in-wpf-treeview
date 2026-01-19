@@ -1,7 +1,7 @@
 # How to Perform Lazy Loading in WPF TreeView?
 
 In this sample, we are going to see about how to perform the lazy loading aka load on demand with the use case of Windows folder browser. 
-In just three following steps, you can simply perform the lazy loading in the WPF TreeView, 
+In just three following steps, you can simply perform the lazy loading in the [WPF TreeView](https://www.syncfusion.com/wpf-controls/treeview), 
 
 1.	Creating a TreeView with Data Binding
 2.	Creating Load on-demand Command in ViewModel
